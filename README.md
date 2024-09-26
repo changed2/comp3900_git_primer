@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git Primer
 
 ### Due Week 3 Lab Time
@@ -41,3 +42,6 @@ Setting up the repo
 4. Fix this issue and then commit your change to git. This time, we want to merge a branch called `incorrect_branch_name` into this branch (`welcome_and_calculator_fix`) using `git merge origin/incorrect_branch_name`. However, when you try to merge it in, you will encounter a merge conflict as there are already changes in the other branch. Remove the other branch's changes and replace them with your fix to the COMP[39]900 welcome message.
 5. Once the code has been merged, push it to Github (the remote version of your branch) using `git push`. If it tells you your branch does not have a remote version, then use the suggested command it gives you.
 6. Now, on Github it will give you a message saying there were recent changes to a branch and ask you if you want to submit a pull request. Create the pull request but **DO NOT** accept it. You will need to show your tutor the unapproved pull request.
+=======
+# comp3900_git_primer
+>>>>>>> 2ff446f5f3733584b12d3d626362e4c4c676068e
